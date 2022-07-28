@@ -9,6 +9,8 @@
 #include <cstdint>
 #include <functional>
 
+#include <stddef.h>
+
 //
 // forward declarations
 //
